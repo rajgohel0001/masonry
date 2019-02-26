@@ -1,11 +1,11 @@
-.mdc-image-list--masonry {
+/*.mdc-image-list--masonry {
     display: block;
 }
 .mdc-image-list {
     flex-wrap: wrap;
     margin: 0 auto;
     padding: 0;
-}
+}*/
 .masonry-image-list {
     column-count: 5;
     max-width: 900px;
